@@ -1,4 +1,4 @@
-@written by Kayra Polat - Baturalp Kızıltan - Emrecan Erbay - Can Şengün
+@written by Kayra Polat - Baturalp Kızıltan
 
 ***HOW TO RUN OUR FRONTEND PROJECT?***
 
