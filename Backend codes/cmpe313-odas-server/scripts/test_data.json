@@ -1,0 +1,48 @@
+[
+  // PATIENT
+  {
+    "name": "Bob",
+    "surname": "W.",
+    "email": "bob@gmail.com",
+    "username": "bobw",
+    "gender": "Male",
+    "phone": "09501234567",
+    "address": "London",
+    "dateOfBirth": "1960-10-05T12:42:31Z",
+    "passwordHash": "1234",
+    "role": "Patient"
+  },
+  // DOCTOR
+  {
+    "name": "Alice",
+    "surname": "W.",
+    "email": "alice@gmail.com",
+    "username": "alicew",
+    "gender": "Female",
+    "phone": "+1 5544554655",
+    "address": "Seattle",
+    "dateOfBirth": "1989-10-05T12:42:31Z",
+    "passwordHash": "1234",
+    "role": "Doctor",
+    "title": "Op. Dr.",
+    "expertise": "Surgery",
+    "hospital": "Hospital A",
+    "room": "A01"
+  },
+  // Appointment Creation
+  {
+    "title": "Disease A",
+    "patientID": 1,
+    "doctorID": 1,
+    "date": "2022-01-08T12:42:31Z",
+    "hospital": "Hospital A",
+    "room": "A01"
+  },
+  // Set Available Time
+  {
+    "doctorID": 1,
+    "date": "2022-01-08T12:42:31Z",
+    "hospital": "City Hospital",
+    "room": "G018"
+  }
+]
